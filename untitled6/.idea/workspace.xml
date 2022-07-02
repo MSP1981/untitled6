@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="297aa4a0-d2e3-4b3d-ae12-0d6fb1c7da4d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Sales/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../open/src/com/company/Color.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../open/src/com/company/ColorBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../open/src/com/company/Metal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../open/src/com/company/Warehouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/untitled6/com/country/main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/country/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Курсак/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Курсак/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Курсак/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Курсак/Sales/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hello vasy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hello world/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Hello world/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Musiiko Serhii start/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Musiiko Serhii start/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VASY/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Курсак/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VASY/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VASY/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VASY/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VASY/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VASY/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VASY/VASY.iml" beforeDir="false" afterPath="$PROJECT_DIR$/untitled6.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VASY/out/production/VASY/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VASY/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../calculator" beforeDir="false" afterPath="$PROJECT_DIR$/../calculator" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cylinder" beforeDir="false" afterPath="$PROJECT_DIR$/../cylinder" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2BNdaKj0iFDSUuM9UBm1wFlawsm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.country.main" />
+      <module name="untitled6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.country.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="297aa4a0-d2e3-4b3d-ae12-0d6fb1c7da4d" name="Changes" comment="" />
+      <created>1656750542180</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1656750542180</updated>
+      <workItem from="1656750546828" duration="1297000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
